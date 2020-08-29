@@ -1,0 +1,14 @@
+*{
+    padding:0px;
+    margin:0px;
+  }
+#root{
+    display:flex;
+    justify-content: center;
+    background-color: #f2f5fa;
+  height:100vh;
+}
+.countrypicker{
+  display:grid;
+  place-items: center ;
+}
